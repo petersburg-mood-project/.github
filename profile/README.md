@@ -27,7 +27,7 @@
 
 Мы рады научным контактам и предложениям по развитию тематики проекта. С нами можно связаться по [электронной почте](mailto:chizhik@itmo.ru).
 
-## Участники проекта
+## Разработчики и аналитики данных
 
 [<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/53980712?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d" width="30" /> Анна Чижик](https://github.com/Frantsuzova)
 </br>

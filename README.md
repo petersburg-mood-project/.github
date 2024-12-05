@@ -20,6 +20,6 @@
 ## Важные ссылки
 
 - [Веб-сервис картирования](https://petersburg-mood-project.github.io/spbmood-web/)
-- [Данные ](https://github.com/petersburg-mood-project/data)
-- Статьи: [1](https://doi.org/10.25205/1818-7935-2024-22-1-50-64), [2](https://doi.org/10.1145/3614321.3614393), [3](https://doi.org/10.1145/3614321.3614394), [4](https://doi.org/10.34670/AR.2023.98.84.027)
+- [Данные](https://github.com/petersburg-mood-project/data)
+- Результаты исследования (статьи): [1](https://doi.org/10.25205/1818-7935-2024-22-1-50-64), [2](https://doi.org/10.1145/3614321.3614393), [3](https://doi.org/10.1145/3614321.3614394), [4](https://doi.org/10.34670/AR.2023.98.84.027)
 
